@@ -7,7 +7,7 @@ from aiogram.types import Message, CallbackQuery, InlineKeyboardMarkup, InlineKe
 
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = "8800837489:AAEG478K-OC3WMoyUlg5UWmf4gkUzoA7zZs"
+BOT_TOKEN = "8947350461:AAHuw9oKnKOr7I_AYjSkLwC80B4-V1D8riA"
 CHANNEL_ID = "@WorlldStudios"
 CHANNEL_URL = "https://t.me/WorlldStudios"
 USERS_DB = "users.json"
